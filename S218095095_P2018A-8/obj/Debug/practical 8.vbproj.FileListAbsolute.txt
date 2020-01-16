@@ -1,0 +1,26 @@
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\practical 8.exe.config
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\practical 8.exe
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\practical 8.pdb
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\practical 8.xml
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\UJGrid.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\bin\Debug\Microsoft.MSXML.dll
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\obj\Debug\practical 8.vbprojResolveAssemblyReference.cache
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\obj\Debug\practical 8.exe.config
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\obj\Debug\practical_8.frmPracEight.resources
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\obj\Debug\practical_8.Resources.resources
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\obj\Debug\practical 8.vbproj.GenerateResource.cache
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\obj\Debug\practical 8.vbproj.CoreCompileInputs.cache
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\obj\Debug\practical 8.vbproj.CopyComplete
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\obj\Debug\practical 8.exe
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\obj\Debug\practical 8.xml
+C:\Users\z3u5\AppData\Local\Temporary Projects\practical 8\obj\Debug\practical 8.pdb
